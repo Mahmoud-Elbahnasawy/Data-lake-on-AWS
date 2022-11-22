@@ -1,0 +1,2 @@
+song_data = "s3://udacity-dend/song_data"
+log_data = "s3://udacity-dend/log_data"
